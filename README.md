@@ -19,10 +19,5 @@ Investigar como a temperatura influencia o consumo de energia elétrica, a parti
 - A regressão linear foi eficiente em explicar a variação do consumo;
 - O modelo pode ser útil para previsões sazonais e planejamento energético.
 
-## Como Executar
-1. Clone o repositório
-2. Instale os pacotes com `pip install -r requirements.txt`
-3. Execute o notebook `.ipynb`
-
 ## Autor
 João Marcos Silva
